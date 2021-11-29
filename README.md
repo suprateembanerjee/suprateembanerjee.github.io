@@ -1,2 +1,1 @@
-# suprateembanerjee.github.io
-Personal Website
+# Simple Demo (without project photos)
